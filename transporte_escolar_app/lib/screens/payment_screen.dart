@@ -1,1 +1,0 @@
-Tela de pagamento simulada
