@@ -1,0 +1,1 @@
+Instruções de uso do projeto para Codemagic e GitHub
